@@ -1,0 +1,6 @@
+{
+  "author": "samman (samman@yahoo-inc.com)",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}
