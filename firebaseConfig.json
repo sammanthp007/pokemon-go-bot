@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "688529019177",
+    "firebase_url": "https://pokemon-yo.firebaseio.com",
+    "project_id": "pokemon-yo",
+    "storage_bucket": "pokemon-yo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688529019177:android:af2a6cf363aeaab4",
+        "android_client_info": {
+          "package_name": "com.hackday.yatink.hd16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688529019177-dtps5memh025mnuis40stggqq4tf6ug2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackday.yatink.hd16",
+            "certificate_hash": "D50EDD21183B64AA75B90618BAC42AE854C9619D"
+          }
+        },
+        {
+          "client_id": "688529019177-2u3kqne6on0ut019csqq7qjknclim07q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOpmJh_i4GitgMT7_gn-q-ZcuIzR_njk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688529019177-2u3kqne6on0ut019csqq7qjknclim07q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
